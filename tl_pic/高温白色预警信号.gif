@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="dns-prefetch" href="http://i.tq121.com.cn">
+<meta charset="utf-8" />
+<title>非常抱歉，网页无法访问</title>
+<meta  name="keywords" content="天气预报,天气,天气预报查询一周,天气预报15天查询,天气预报查询,北京天气,天气在线,气候,气象" />
+<meta name="description" content="中国天气网官方权威发布天气预报,逐三小时天气预报,提供天气预报查询一周,天气预报15天查询,空气质量,生活指数,旅游出行,交通天气等查询服务" />
+<meta name="msapplication-task" content="name=天气资讯;action-uri=http://news.weather.com.cn/index.shtml;icon-uri=http://www.weather.com.cn/favicon.ico" />
+<meta name="msapplication-task" content="name=生活天气;action-uri=http://www.weather.com.cn/life/index.shtml;icon-uri=http://www.weather.com.cn/favicon.ico" />
+<meta name="msapplication-task" content="name=气象科普;action-uri=http://www.weather.com.cn/science/index.shtml;icon-uri=http://www.weather.com.cn/favicon.ico" />
+<meta name="msapplication-task" content="name=灾害预警;action-uri=http://www.weather.com.cn/alarm/index.shtml;icon-uri=http://www.weather.com.cn/favicon.ico" />
+<meta name="msapplication-task" content="name=旅游天气;action-uri=http://www.weather.com.cn/trip/index.shtml;icon-uri=http://www.weather.com.cn/favicon.ico" />
+<script type="text/javascript"> 
+    var t=4;//设定跳转的时间 
+    setInterval("refer()",1000); //启动1秒定时 
+    function refer(){  
+        if(t==0){ 
+            location="http://www.weather.com.cn/#404"; //#设定跳转的链接地址 
+        } 
+        document.getElementById('show').innerHTML=""+t+""; // 显示倒计时 
+        t--; // 计数器递减 
+        //本文转自： 
+    } 
+    </script> 
+<style>
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, p, blockquote, th, td, article, aside, summary, details, figcaption, figure, footer, header, hgroup, menu, nav, section { margin:0; padding:0 }
+article, aside, summary, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display:block }
+table { border-collapse:collapse; border-spacing:0 }
+fieldset, img { border:0; vertical-align:middle }
+address, caption, cite, code, dfn, em, strong, th, var { font-style:normal; font-weight:normal }
+ul, ol { list-style:outside none none }
+q:before, q:after { content:'' }
+abbr, acronym { border:0 }
+input, button, select { vertical-align:middle }
+.fl { float:left; display:inline }
+.fr { float:right; display:inline }
+body { background-color:#fff; background-attachment:fixed; background-position:center top; background-repeat:no-repeat; padding:0; margin:0; border:0; font:14px/1.6 "Microsoft Yahei", "Tahoma", "SimSun" }
+* { padding:0; margin:0; border:0 }
+ul { list-style:none }
+a { text-decoration:none; color:#252525 }
+a:hover { color:#ee842f }
+.clear { clear:both; height:0; overflow:hidden }
+nav { display:block }
+table { border-collapse:collapse }
+h1, h, h3, h4, h5, h6 { font-weight:normal }
+.clearfix { zoom:1 }
+.clearfix:after { content:"."; display:block; clear:both; visibility:hidden; height:0 }
+body { color:#666666; }
+i { font-style:normal; }
+.nide { width:1000px; margin:0 auto; }
+.cuo { width:885px; margin:0 auto 60px; }
+.cuo h1 { color:#636060; height:290px; line-height:290px; font-size:40px; font-weight:bold; }
+.cuo h1 span { font-weight:bold; padding-right:20px; font-size:100px; }
+.cuo p { margin-bottom:20px; font-size:23px; }
+.cuo p a { color:#16459a; }
+.cuo p a:hover{ color:#ee842f; }
+.zuo ul li a img { width:155px; height:120px; }
+.zuo { width:1021px; float:left; }
+.zuo ul li { float:left; width:155px; text-align:center; height:120px; margin-right:15px; display:inline; }
+.zuo ul li a { margin-bottom:10px; display:block; width:155px; }
+.zuo ul { width:340px; float:left; }
+#search .midBlock { position:relative; z-index:99; width:1000px; margin:0 auto; }
+#search { height:64px; margin:16px auto; height:64px; border-bottom:3px solid #ccc; }
+#search .midBlock .selCity { position:absolute; width:210px; height:120px; top:0px; left:390px; background-color:#ebebeb; padding:0px 20px 20px 20px; display:none; }
+#search .midBlock .selCity p { text-align:left; }
+#search .midBlock .selCity p.droplist { line-height:25px; z-index:99; position:relative; }
+#search .midBlock .selCity p.title { color:#076EA8; }
+#search h1 { display:block; float:left; width:140px; margin-top:15px; margin-right:10px; overflow:hidden; }
+body { color:#666666; }
+i { font-style:normal; }
+.nide { width:1000px; margin:0 auto; }
+.cuo { width:885px; margin:0 auto 60px; }
+.cuo h1 { color:#636060; height:290px; line-height:290px; font-size:40px; font-weight:bold; }
+.cuo h1 span { font-weight:bold; padding-right:20px; font-size:100px; }
+.cuo p { margin-bottom:20px; font-size:23px; }
+.cuo p a { color:#16459a; }
+.zuo ul li a img { width:155px; height:120px; }
+.zuo { width:1021px; float:left; }
+.zuo ul li { float:left; width:155px; text-align:center; height:120px; margin-right:15px; display:inline; }
+.zuo ul li a { margin-bottom:10px; display:block; width:155px; }
+.zuo ul { width:340px; float:left; }
+#search .midBlock { position:relative; z-index:99; width:1000px; margin:0 auto; }
+#search { height:64px; margin:16px auto; height:64px; border-bottom:3px solid #ccc; }
+#search .midBlock .selCity { position:absolute; width:210px; height:120px; top:0px; left:390px; background-color:#ebebeb; padding:0px 20px 20px 20px; display:none; }
+#search .midBlock .selCity p { text-align:left; }
+#search .midBlock .selCity p.droplist { line-height:25px; z-index:99; position:relative; }
+#search .midBlock .selCity p.title { color:#076EA8; }
+#search h1 { display:block; float:left; width:140px; height:35px; background:url(http://i.tq121.com.cn/i/index/logo_notfound.jpg); margin-top:15px; margin-right:10px; overflow:hidden; }
+#search h1 a { display:block; width:140px; height:35px; text-indent:-9999px; }
+#txtZip { font-size: 14px; height: 35px; line-height: 35px; padding-left:10px; background:none; color: #6bb0da; margin-top: 2px; text-indent: 4px; width: 285px; }
+#btnZip { background: none; cursor: pointer; height: 23px; text-indent: -9999px; width: 42px; }
+</style>
+</head>
+
+<body>
+<div id="search">
+  <div class="midBlock">
+    <h1> <a title="中国天气网" href="http://www.weather.com.cn">中国天气</a> </h1>
+  </div>
+</div>
+<div class="nide">
+  <div class="cuo">
+    <h1><span><i style="color:#dd8d8d;">4</i><i style="color:#84b998">0</i><i style="color:#84adc2;">4</i></span>您访问的页面不存在</h1>
+
+    <p>  <span id="show">5</span>秒后自动返回 <a href="http://www.weather.com.cn">中国天气网首页</a></p>   
+ <p>或者看看下面的美图吧！</p>
+  </div>
+  <div class="zuo">
+<ul><li><a href="http://p.weather.com.cn/2022/11/3579442.shtml"  target="_blank" title="乌苏里江现流冰 日出时分美如画"><img alt="乌苏里江现流冰 日出时分美如画" src="http://pic.weather.com.cn/images/cn/photo/2022/11/19/2022111914311162BC45D1E73906887103AB4739A8F9FF_s.jpg" target="_blank"></a><a href="http://p.weather.com.cn/2022/11/3579442.shtml"  target="_blank" title="乌苏里江现流冰 日出时分美如画">乌苏里江现流冰 日出时分美如画</a></li><li><a href="http://p.weather.com.cn/2022/11/3579181.shtml"  target="_blank" title="四川崇州罨画池银杏正当时 藏在古建筑里的浓浓秋意"><img alt="四川崇州罨画池银杏正当时 藏在古建筑里的浓浓秋意" src="http://pic.weather.com.cn/images/cn/photo/2022/11/18/20221118093925FAE125A61A39C002F31631B7B276ABCD_s.jpg" target="_blank"></a><a href="http://p.weather.com.cn/2022/11/3579181.shtml"  target="_blank" title="四川崇州罨画池银杏正当时 藏在古建筑里的浓浓秋意">四川崇州罨画池银杏正当时 藏在古建筑里的浓浓秋意</a></li></ul>
+
+<ul><li><a href="http://p.weather.com.cn/2022/11/3578762.shtml"  target="_blank" title="狮子座流星雨极大时刻将至 盘点历年来各大流星雨美景名场面"><img alt="狮子座流星雨极大时刻将至 盘点历年来各大流星雨美景名场面" src="http://pic.weather.com.cn/images/cn/photo/2022/11/16/20221116144053A9D8EDF5BAE69640D40363B58936CFBD_s.jpg" target="_blank"></a><a href="http://p.weather.com.cn/2022/11/3578762.shtml"  target="_blank" title="狮子座流星雨极大时刻将至 盘点历年来各大流星雨美景名场面">狮子座流星雨极大时刻将至 盘点历年来各大流星雨美景名场面</a></li><li><a href="http://p.weather.com.cn/2022/11/3578257.shtml"  target="_blank" title="直上云霄 内蒙古海拉尔现“寒夜光柱”奇观"><img alt="直上云霄 内蒙古海拉尔现“寒夜光柱”奇观" src="http://pic.weather.com.cn/images/cn/photo/2022/11/14/202211141454018E61C80020F707AF52779A610CEA865D_s.jpg" target="_blank"></a><a href="http://p.weather.com.cn/2022/11/3578257.shtml"  target="_blank" title="直上云霄 内蒙古海拉尔现“寒夜光柱”奇观">直上云霄 内蒙古海拉尔现“寒夜光柱”奇观</a></li></ul>
+
+<ul><li><a href="http://p.weather.com.cn/2022/11/3578783.shtml"  target="_blank" title="冰雪季开启 吉林滑雪运动热度不减"><img alt="冰雪季开启 吉林滑雪运动热度不减" src="http://pic.weather.com.cn/images/cn/photo/2022/11/16/20221116154424BE5BF44CF715549F34ADFE50207A784A_s.jpg" target="_blank"></a><a href="http://p.weather.com.cn/2022/11/3578783.shtml"  target="_blank" title="冰雪季开启 吉林滑雪运动热度不减">冰雪季开启 吉林滑雪运动热度不减</a></li><li><a href="http://p.weather.com.cn/2022/11/3577778.shtml"  target="_blank" title="北京风雨天气接连登场 落叶变“车衣”"><img alt="北京风雨天气接连登场 落叶变“车衣”" src="http://pic.weather.com.cn/images/cn/photo/2022/11/12/2022111209575792BDE26577C33D7E558C60909013691E_s.jpg" target="_blank"></a><a href="http://p.weather.com.cn/2022/11/3577778.shtml"  target="_blank" title="北京风雨天气接连登场 落叶变“车衣”">北京风雨天气接连登场 落叶变“车衣”</a></li></ul>
+
+  </div>
+</div>
+<script type="text/javascript" src="http://c.wrating.com/a1.js">
+</script>
+<script type="text/javascript">
+var vjAcc="860010-2099220100";
+var wrUrl="http://c.wrating.com/";
+vjTrack("");
+</script>
+<noscript>
+<img src="http://c.wrating.com/a.gif?a=&c=860010-2099220100" width="1" height="1"/>
+</noscript>
+  <script type="text/javascript">
+window._wat = window._wat || [];
+(function() {
+    var wm = document.createElement("script");
+    
+    wm.src = "http://analyse.weather.com.cn/js/v1/wa.js?site_id=1";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(wm, s);
+})();
+</script>
+
+</body>
+</html>
